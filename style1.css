@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    border: border-box;
+    background-color: black;
+    color: white;  
+     
+}
+.header{
+    margin-top: 10px;
+   
+
+}
+
+.sicon{
+    
+    margin-left: 30%;
+    display: flex;
+    align-items: center;
+}
+.sicon >div{
+    font-size: 30px;
+    margin-left: 30px;
+   
+}
+.top{
+    margin-top: 10px;
+    display: flex;
+}
+.exp{
+    margin-top: 20px;
+   margin-left: 50%;
+}
+.design1{
+    background-image: url("images.jpg");
+    height: 100px;
+    width: 80px;
+}
+.main{
+    width: 90%;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items:center ;
+    column-gap: 20px;
+}
+.image{
+    
+    width: 320px;
+    height: 500px;
+    background-color: aliceblue;
+}
+.text{
+    width: 600px;
+}
+.hpro{
+    margin-top: 20px;
+    margin-left: 50%;
+}
+.project{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.one{
+    
+    height: 100px;
+    width: 200px;
+    background-color: aliceblue;
+}
